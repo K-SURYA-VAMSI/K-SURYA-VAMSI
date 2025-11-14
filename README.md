@@ -51,7 +51,7 @@ I'm a passionate developer and Computer Science & Engineering undergraduate at S
 - Built an AI-powered chatbot using Gemini AI, supporting real-time voice input and text-based responses.  
   **Tech Stack:** Angular, Node.js, Express.js, HTML, CSS, Speech-to-Text
 
-### [CourseGPT](https://github.com/K-SURYA-VAMSI/CourseGPT) | [Live Demo](https://course-gpt-ten.vercel.app)
+### [CourseGPT](https://github.com/K-SURYA-VAMSI/CourseGPT) | [Live Demo](https://inspiring-puppy-e3e881.netlify.app/)
 - Developed CourseGPT, a web app for generating, organizing, and managing educational courses using AI (Google Gemini API).  
   **Tech Stack:** React.js, Express.js, MongoDB, Google Gemini API
 
