@@ -8,16 +8,16 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a passionate developer and Computer Science & Engineering undergraduate at SRM University AP. I enjoy building full-stack applications and leveraging AI technologies for everyday solutions. I thrive in hackathons and fast-paced teams, where innovation and collaboration drive results.
+I'm a passionate developer and Computer Science & Engineering undergraduate at SRM University AP. I enjoy building full-stack applications and leveraging AI technologies for everyday solutions. I ...
 
 ---
 
 ## 🏆 Experience
 
-**Hackathon – Techxcelerate, BITS Pilani Hyderabad**  
-*Feb 2025*  
-- Participated and developed a smart food ordering web application using the MERN stack with real-time chat and voice command features, improving restaurant discoverability, order personalization, and checkout speed.
-- Gained valuable experience in rapid prototyping, teamwork under deadlines, and presenting to industry judges.
+**Codegnan IT Solutions – MERN Stack Frontend Intern**                                        May 2025 – Sept 2025  
+- Developed responsive and interactive frontend modules using React.js for a feature-rich task management and collaboration platform.
+- Implemented reusable React components, state management, API integration, and optimized UI performance for seamless user experience.
+- Collaborated with backend developers and gained hands-on experience in modern frontend development practices using the MERN stack.
 
 ---
 
