@@ -76,6 +76,7 @@ I'm a passionate developer and Computer Science & Engineering undergraduate at S
 ## 🛠️ Skills & Technologies
 
 - **Languages & Stacks:** Java, JavaScript, MERN (MongoDB, Express.js, React.js, Node.js), SQL, NoSQL, Tailwind CSS
+- **AI & ML:** Machine Learning, Retrieval-Augmented Generation (RAG), Vector Databases (ChromaDB), LLM APIs (OpenAI, Gemini) 
 - **Developer Tools:** Git, VS Code, Eclipse, MongoDB
 - **Primary Backend:** Node.js, Express.js
 
