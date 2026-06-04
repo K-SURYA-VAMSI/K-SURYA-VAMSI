@@ -14,7 +14,7 @@ I'm a passionate developer and Computer Science & Engineering undergraduate at S
 
 ## 🏆 Experience
 
-**Codegnan IT Solutions – MERN Stack Frontend Intern**                                        May 2025 – Sept 2025  
+**Codegnan IT Solutions – MERN Stack Frontend Intern**                                        May 2025 – May 2026  
 - Developed responsive and interactive frontend modules using React.js for a feature-rich task management and collaboration platform.
 - Implemented reusable React components, state management, API integration, and optimized UI performance for seamless user experience.
 - Collaborated with backend developers and gained hands-on experience in modern frontend development practices using the MERN stack.
@@ -25,7 +25,7 @@ I'm a passionate developer and Computer Science & Engineering undergraduate at S
 
 - **B.Tech, Computer Science and Engineering** — SRM University AP  
   *2022 – 2026*  
-  GPA: 8.25/10.0
+  GPA: 8.3/10.0
 
 - **Class 12th – BIE (2020–2022)**  
   Percentile: 95.5/100.0
@@ -36,6 +36,10 @@ I'm a passionate developer and Computer Science & Engineering undergraduate at S
 ---
 
 ## 🚀 Projects
+
+### [Academic Paper RAG with Citation Network](https://github.com/K-SURYA-VAMSI/Academic-Paper-RAG-with-Citation-Network)
+- Developed an advanced Retrieval-Augmented Generation (RAG) system integrating vector search and graphanalytics to extract, map, and analyze academic citations for context-aware QA.
+  **Tech Stack:** MERN Stack, ChromaDB, OpenAI API, D3.js, Graph Neural Networks (GNNs), RAGAS.
 
 ### [DevConnect](https://github.com/K-SURYA-VAMSI/DevConnect)
 - Built a Tinder-style platform for developers to connect via profile-based matching and a request system.
